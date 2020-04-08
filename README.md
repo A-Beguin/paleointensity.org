@@ -9,6 +9,8 @@ Paleointensity.org is an online, open source, application to analyze paleointens
 Here we present the raw Python codes used for all calculations of the selection criteria and the graphing of the different methods. These codes can be tested with the test.py script. More about the python codes can be found in the “How to run the scripts” at the bottom of this readme document. 
 The Python scripts are compiled to Javascript to run on paleointensity.org. 
 
+# Zenodo link
+[![DOI](https://zenodo.org/badge/254030163.svg)](https://zenodo.org/badge/latestdoi/254030163)
 
 # Authors
 
